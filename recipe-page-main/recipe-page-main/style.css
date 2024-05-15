@@ -1,0 +1,38 @@
+
+  body{
+    background-color: blanchedalmond;
+    display: grid;
+    width: 400px;
+    margin: 20px auto;
+  }
+
+  .main {
+    background-color: aliceblue;
+    margin: 20px auto;
+    width: 500px;
+    padding: 10px;
+  }
+  .a li::marker{
+    color: rgb(80, 3, 40);
+  }
+  .a h2{
+    color: rgb(80, 3, 40);
+  }
+  .a{
+    background-color: rgb(244, 234, 245);
+  }
+ 
+  
+  .Ing li::marker{
+    color: brown;
+  }
+  
+
+.test {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+
+
+    
